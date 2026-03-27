@@ -1,4 +1,5 @@
-[Cybersoft Capstone] Kiểm thử hệ thống quản lý khóa học Cybersoft (Manual &amp; API Testing)
+[Cybersoft Capstone] Kiểm thử hệ thống quản lý khóa học Cybersoft (Manual & API Testing)
+
 # Capstone Testing Project – CyberSoft E-Learning Platform
 
 > **Manual Testing & API Testing** | CyberSoft Academy – Testing 14
@@ -79,6 +80,8 @@ CyberSoft E-Learning là nền tảng học lập trình trực tuyến. Phạm 
 ---
 
 ## Bug nổi bật
+
+> Toàn bộ bug được quản lý và tracking trên Jira; một số bug tiêu biểu đã được log lại dưới dạng GitHub Issues để minh họa quy trình làm việc thực tế.
 
 | TC | Mô tả | Priority |
 |---|---|:---:|
