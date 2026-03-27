@@ -11,7 +11,6 @@
 | **Phạm vi** | Module Thông tin cá nhân (UI + API) |
 | **Loại kiểm thử** | Manual Testing, API Testing (REST) |
 | **Công cụ** | Browser DevTools, Postman, Jira |
-| **Tester** | Trúc Anh |
 
 ---
 
