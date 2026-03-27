@@ -99,7 +99,7 @@ CyberSoft E-Learning là nền tảng học lập trình trực tuyến. Phạm 
 
 | File | Mô tả |
 |---|---|
-| [`Cybersoft_Capstone_Truc_Anh.xlsx`](./Cybersoft_Capstone_Truc_Anh.xlsx) | Toàn bộ test case chi tiết |
+| [`TestCases.xlsx`](./TestCases.xlsx) | Toàn bộ test case chi tiết |
 
 ---
 
