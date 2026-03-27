@@ -82,7 +82,6 @@ CyberSoft E-Learning là nền tảng học lập trình trực tuyến. Phạm 
 
 | TC | Mô tả | Priority |
 |---|---|:---:|
-| TC_04 | Left sidebar hiển thị tên mặc định (Robert Nguyễn) thay vì tên thực tế | Low |
 | TC_21 | Hủy khóa học không có popup xác nhận | Medium |
 | TC_39 | Họ tên chỉ là khoảng trắng vẫn được lưu thành công | Medium |
 | TC_58 | SĐT 10 chữ số hợp lệ nhưng bị báo lỗi sai định dạng | Medium |
