@@ -22,7 +22,7 @@ Các thành phần chi tiết của dự án được tổ chức như sau:
 * **[Phân tích yêu cầu](./docs/RequirementsAnalysis.md)**: Chi tiết các yêu cầu chức năng, phi chức năng và căn cứ thiết kế kịch bản kiểm thử.
 * **[Danh sách Test Case (Markdown Version)](./docs/TestCases.md)**: Bản xem nhanh 96 kịch bản kiểm thử trực tiếp trên trình duyệt.
 * **[Danh sách Test Case (Excel Version)](./resources/TestCases.xlsx)**: File gốc định dạng Excel hỗ trợ bộ lọc và quản lý thực thi chi tiết.
-* **[Báo cáo lỗi (GitHub Issues)](../../issues)**: Quản lý vòng đời Bug, phân loại mức độ ưu tiên và theo dõi trạng thái khắc phục.
+* **[Báo cáo lỗi (GitHub Issues)](../../issues)**: Toàn bộ bug được quản lý và tracking trên Jira; một số bug tiêu biểu đã được log lại dưới dạng GitHub Issues để minh họa quy trình làm việc thực tế.
 
 ---
 
